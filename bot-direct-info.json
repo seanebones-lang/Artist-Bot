@@ -54,6 +54,14 @@
     {
       "webhook_enabled": false,
       "enabled": true,
+      "question": "min?",
+      "intent_display_name": "pricing_direct",
+      "language": "en",
+      "answer": "Here's your complete pricing guide:\n\n💰 **Small Tattoos:**\n• Simple designs, minimal detail\n• Size: 1-3 inches\n• Price: $100 - $125\n• Examples: Small symbols, names, simple designs\n\n💰 **Medium Tattoos:**\n• Moderate detail and complexity\n• Size: 3-6 inches\n• Price: $250 - $500\n• Examples: Script, medium designs, some shading\n\n💰 **Large Tattoos:**\n• High detail and complexity\n• Price: $180 - $225 per hour\n• Examples: Sleeves, back pieces, detailed artwork\n• Time estimate provided during consultation\n\n💰 **Specialty Services:**\n• Touch-ups: starts at $100\n• Cover-ups: starts at $300\n• Consultations: FREE\n• Minimum charge: $100\n\n💰 **Deposit Information:**\n• Required: $100\n• Applied to final cost\n• Refundable with 48 hours notice\n• Non-refundable after 48 hours\n\n💳 **Payment Methods:**\n• Credit cards\n• Cash\n• Zelle\n• Payment plans available\n\n📞 **Questions?** Call us: (682) 221-8860\n\nHope we were able to serve you! If you have any questions or concerns please let us know. Thank you from the Inky Blinders Family!"
+    },
+    {
+      "webhook_enabled": false,
+      "enabled": true,
       "question": "deposit",
       "intent_display_name": "deposit_collection",
       "language": "en",
@@ -86,34 +94,82 @@
     {
       "webhook_enabled": false,
       "enabled": true,
-      "question": "location",
-      "intent_display_name": "location_info",
+      "question": "who works there?",
+      "intent_display_name": "artist_info",
       "language": "en",
-      "answer": "Find us here:\n\n📍 **Address**: 218 N Main St, Maypearl, TX 76064\n📞 **Phone**: (682) 221-8860\n📧 **Email**: inkyblindersvtx@gmail.com\n🗺️ **Maps**: https://maps.google.com/?q=218+N+Main+St,+Maypearl,+TX+76064\n\n🕐 **Hours**: Tuesday-Saturday, 11 AM - 7 PM\n\nHope we were able to serve you! If you have any questions or concerns please let us know. Thank you from the Inky Blinders Family!"
+      "answer": "Meet our award-winning artists:\n\n👨‍🎨 **Brick Lee - Owner & Lead Artist**\n• 15+ years experience\n• Specializes in: Realism, Traditional, Custom Designs\n• Portfolio: https://www.instagram.com/inkyblindersvtx/\n\n👨‍🎨 **Staff Artist**\n• 15+ years experience\n• Specializes in: Traditional, Neo-traditional, Cover-ups\n\n🏆 **Combined Experience**: 30+ years\n\n📞 **Book with any artist**: (682) 221-8860\n\nHope we were able to serve you! If you have any questions or concerns please let us know. Thank you from the Inky Blinders Family!"
     },
     {
       "webhook_enabled": false,
       "enabled": true,
-      "question": "hours",
-      "intent_display_name": "hours_info",
+      "question": "who's there?",
+      "intent_display_name": "artist_info",
       "language": "en",
-      "answer": "Our business hours:\n\n🕐 **Tuesday**: 11:00 AM - 7:00 PM\n🕐 **Wednesday**: 11:00 AM - 7:00 PM\n🕐 **Thursday**: 11:00 AM - 7:00 PM\n🕐 **Friday**: 11:00 AM - 7:00 PM\n🕐 **Saturday**: 11:00 AM - 7:00 PM\n🕐 **Sunday**: Closed\n🕐 **Monday**: Closed\n\n✅ **Walk-ins welcome**\n\nHope we were able to serve you! If you have any questions or concerns please let us know. Thank you from the Inky Blinders Family!"
+      "answer": "Meet our award-winning artists:\n\n👨‍🎨 **Brick Lee - Owner & Lead Artist**\n• 15+ years experience\n• Specializes in: Realism, Traditional, Custom Designs\n• Portfolio: https://www.instagram.com/inkyblindersvtx/\n\n👨‍🎨 **Staff Artist**\n• 15+ years experience\n• Specializes in: Traditional, Neo-traditional, Cover-ups\n\n🏆 **Combined Experience**: 30+ years\n\n📞 **Book with any artist**: (682) 221-8860\n\nHope we were able to serve you! If you have any questions or concerns please let us know. Thank you from the Inky Blinders Family!"
     },
     {
       "webhook_enabled": false,
       "enabled": true,
-      "question": "services",
-      "intent_display_name": "services_info",
+      "question": "staff?",
+      "intent_display_name": "artist_info",
       "language": "en",
-      "answer": "We offer:\n\n✅ **Small tattoos**: $100 - $125\n✅ **Medium tattoos**: $250 - $500\n✅ **Large tattoos**: $180 - $225 per hour\n✅ **Touch-ups**: starts at $100\n✅ **Cover-ups**: starts at $300\n✅ **FREE consultations**\n❌ **No piercings**\n\n📞 **Book consultation**: Call (682) 221-8860\n\nHope we were able to serve you! If you have any questions or concerns please let us know. Thank you from the Inky Blinders Family!"
+      "answer": "Meet our award-winning artists:\n\n👨‍🎨 **Brick Lee - Owner & Lead Artist**\n• 15+ years experience\n• Specializes in: Realism, Traditional, Custom Designs\n• Portfolio: https://www.instagram.com/inkyblindersvtx/\n\n👨‍🎨 **Staff Artist**\n• 15+ years experience\n• Specializes in: Traditional, Neo-traditional, Cover-ups\n\n🏆 **Combined Experience**: 30+ years\n\n📞 **Book with any artist**: (682) 221-8860\n\nHope we were able to serve you! If you have any questions or concerns please let us know. Thank you from the Inky Blinders Family!"
     },
     {
       "webhook_enabled": false,
       "enabled": true,
-      "question": "payment",
-      "intent_display_name": "payment_methods",
+      "question": "pay deposit",
+      "intent_display_name": "deposit_collection",
       "language": "en",
-      "answer": "We accept:\n\n💳 **Credit cards**\n💵 **Cash**\n📱 **Zelle**\n\n💰 **Deposits**: $100 required\n⏰ **Refund policy**: 48 hours notice\n\n📞 **Questions?** Call us: (682) 221-8860\n\nHope we were able to serve you! If you have any questions or concerns please let us know. Thank you from the Inky Blinders Family!"
+      "answer": "To process your deposit, I need:\n\n📝 **Please provide**:\n• Your full name\n• Phone number\n• Email address\n\nOnce you provide these details, I'll note your request and our team will contact you within 1 hour to process your deposit.\n\n💰 **Deposit amount**: $100\n💳 **Payment methods**: Credit card, Cash, Zelle\n\n📞 **Questions?** Call us: (682) 221-8860\n\nHope we were able to serve you! If you have any questions or concerns please let us know. Thank you from the Inky Blinders Family!"
+    },
+    {
+      "webhook_enabled": false,
+      "enabled": true,
+      "question": "call me back",
+      "intent_display_name": "callback_collection",
+      "language": "en",
+      "answer": "I'll note your callback request!\n\n📝 **Please provide**:\n• Your full name\n• Phone number\n• Email address\n\n⏰ **Response time**: Within 1 hour\n📞 **Team contact**: inkyblindersvtx@gmail.com\n\nYour request will be noted and our team will call you back ASAP.\n\n📞 **Questions?** Call us: (682) 221-8860\n\nHope we were able to serve you! If you have any questions or concerns please let us know. Thank you from the Inky Blinders Family!"
+    },
+    {
+      "webhook_enabled": false,
+      "enabled": true,
+      "question": "social media",
+      "intent_display_name": "portfolio_links",
+      "language": "en",
+      "answer": "Check out our amazing work:\n\n📱 **Facebook**: https://www.facebook.com/inkyblindersvtx/\n📍 **Instagram**: https://www.instagram.com/inkyblindersvtx/\n🎵 **TikTok**: https://www.tiktok.com/search?lang=en&q=inkyblinders&t=1756361559574\n\nWant to see specific styles or have questions about our work?\n\nHope we were able to serve you! If you have any questions or concerns please let us know. Thank you from the Inky Blinders Family!"
+    },
+    {
+      "webhook_enabled": false,
+      "enabled": true,
+      "question": "see your work",
+      "intent_display_name": "portfolio_links",
+      "language": "en",
+      "answer": "Check out our amazing work:\n\n📱 **Facebook**: https://www.facebook.com/inkyblindersvtx/\n📍 **Instagram**: https://www.instagram.com/inkyblindersvtx/\n🎵 **TikTok**: https://www.tiktok.com/search?lang=en&q=inkyblinders&t=1756361559574\n\nWant to see specific styles or have questions about our work?\n\nHope we were able to serve you! If you have any questions or concerns please let us know. Thank you from the Inky Blinders Family!"
+    },
+    {
+      "webhook_enabled": false,
+      "enabled": true,
+      "question": "tattoo care",
+      "intent_display_name": "aftercare_direct",
+      "language": "en",
+      "answer": "Here's your complete aftercare guide:\n\n🩹 **Initial Application (12-24 hours):**\n• Artist applies first Tegaderm bandage\n• Leave on for 12-24 hours\n• Remove in shower under warm water\n• Wash with antibacterial soap\n• Pat dry with clean paper towel\n\n🩹 **Second Application (4-5 days):**\n• Apply new Tegaderm bandage\n• Leave on for 4-5 days\n• Fluid accumulation is normal\n\n🩹 **Final Care (After 4-5 days):**\n• Remove bandage in shower\n• Wash with antibacterial soap\n• Air dry completely\n• Apply fragrance-free lotion\n• Avoid soaking until healed\n\n⚠️ **Important Notes:**\n• Fluid under bandage is normal\n• Redness/breakouts are normal\n• Protect from sun after healing\n• Follow artist's specific instructions\n\n📞 **Questions?** Call us: (682) 221-8860\n\nHope we were able to serve you! If you have any questions or concerns please let us know. Thank you from the Inky Blinders Family!"
+    },
+    {
+      "webhook_enabled": false,
+      "enabled": true,
+      "question": "healing",
+      "intent_display_name": "aftercare_direct",
+      "language": "en",
+      "answer": "Here's your complete aftercare guide:\n\n🩹 **Initial Application (12-24 hours):**\n• Artist applies first Tegaderm bandage\n• Leave on for 12-24 hours\n• Remove in shower under warm water\n• Wash with antibacterial soap\n• Pat dry with clean paper towel\n\n🩹 **Second Application (4-5 days):**\n• Apply new Tegaderm bandage\n• Leave on for 4-5 days\n• Fluid accumulation is normal\n\n🩹 **Final Care (After 4-5 days):**\n• Remove bandage in shower\n• Wash with antibacterial soap\n• Air dry completely\n• Apply fragrance-free lotion\n• Avoid soaking until healed\n\n⚠️ **Important Notes:**\n• Fluid under bandage is normal\n• Redness/breakouts are normal\n• Protect from sun after healing\n• Follow artist's specific instructions\n\n📞 **Questions?** Call us: (682) 221-8860\n\nHope we were able to serve you! If you have any questions or concerns please let us know. Thank you from the Inky Blinders Family!"
+    },
+    {
+      "webhook_enabled": false,
+      "enabled": true,
+      "question": "consult",
+      "intent_display_name": "consultation_direct",
+      "language": "en",
+      "answer": "Here's your consultation guide:\n\n📋 **What to Bring:**\n• Design ideas or reference images\n• Size preferences\n• Placement preferences\n• Budget range\n• Questions list\n\n❓ **Questions to Ask:**\n• What is your experience with this style?\n• How long will it take?\n• What is the total cost?\n• What is the healing time?\n• Do you offer touch-ups?\n\n🎨 **Design Ideas:**\n• Bring reference photos\n• Describe your vision\n• Consider placement carefully\n• Think about size and detail level\n• Consider future tattoo plans\n\n✅ **Important Notes:**\n• Consultations are FREE\n• Required before booking\n• 15-30 minutes duration\n• Bring all questions\n• Be honest about experience\n\n📞 **Book consultation**: Call (682) 221-8860\n\nHope we were able to serve you! If you have any questions or concerns please let us know. Thank you from the Inky Blinders Family!"
     },
     {
       "webhook_enabled": false,
