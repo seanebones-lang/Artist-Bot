@@ -1,0 +1,167 @@
+{
+  "webhook_enabled": false,
+  "language": "en",
+  "name": "Larry the Virtual Apprentice - Inky Blinders Tattoo",
+  "intents": [
+    {
+      "webhook_enabled": false,
+      "enabled": true,
+      "question": "\\start",
+      "intent_display_name": "start",
+      "language": "en",
+      "answer": "Welcome! I'm Larry the virtual apprentice. What's your name?"
+    },
+    {
+      "webhook_enabled": false,
+      "enabled": true,
+      "question": "my name is",
+      "intent_display_name": "name_collection",
+      "language": "en",
+      "answer": "Nice to meet you! I'm here to help you with everything about Inky Blinders Tattoo. What would you like to know about today?\n\nI can help with:\n• Portfolio and social media\n• Aftercare instructions\n• Booking consultations\n• Pricing information\n• Payment and deposits\n• Directions and location\n• Callback requests\n• Artist information\n\nJust ask me anything!"
+    },
+    {
+      "webhook_enabled": false,
+      "enabled": true,
+      "question": "i'm",
+      "intent_display_name": "name_collection_im",
+      "language": "en",
+      "answer": "Nice to meet you! I'm here to help you with everything about Inky Blinders Tattoo. What would you like to know about today?\n\nI can help with:\n• Portfolio and social media\n• Aftercare instructions\n• Booking consultations\n• Pricing information\n• Payment and deposits\n• Directions and location\n• Callback requests\n• Artist information\n\nJust ask me anything!"
+    },
+    {
+      "webhook_enabled": false,
+      "enabled": true,
+      "question": "aftercare",
+      "intent_display_name": "aftercare_pdf",
+      "language": "en",
+      "answer": "Here's your complete aftercare guide:\n\n📄 **Download Aftercare PDF**:\nhttps://drive.google.com/file/d/1ABC123XYZ/view?usp=sharing\n\nThis PDF contains:\n• Step-by-step instructions\n• Timeline for care\n• What to expect\n• Emergency contact info\n\n📞 **Questions?** Call us: (682) 221-8860\n\nHope we were able to serve you! If you have any questions or concerns please let us know. Thank you from the Inky Blinders Family!"
+    },
+    {
+      "webhook_enabled": false,
+      "enabled": true,
+      "question": "consultation",
+      "intent_display_name": "consultation_pdf",
+      "language": "en",
+      "answer": "Here's your consultation guide:\n\n📄 **Download Consultation PDF**:\nhttps://drive.google.com/file/d/1DEF456UVW/view?usp=sharing\n\nThis PDF contains:\n• What to bring\n• Questions to ask\n• Design ideas\n• Consultation checklist\n\n📞 **Book consultation**: Call (682) 221-8860\n\nHope we were able to serve you! If you have any questions or concerns please let us know. Thank you from the Inky Blinders Family!"
+    },
+    {
+      "webhook_enabled": false,
+      "enabled": true,
+      "question": "prices",
+      "intent_display_name": "pricing_pdf",
+      "language": "en",
+      "answer": "Here's your complete pricing guide:\n\n📄 **Download Pricing PDF**:\nhttps://drive.google.com/file/d/1GHI789RST/view?usp=sharing\n\nThis PDF contains:\n• All service prices\n• Package deals\n• Deposit information\n• Payment options\n\n📞 **Questions?** Call us: (682) 221-8860\n\nHope we were able to serve you! If you have any questions or concerns please let us know. Thank you from the Inky Blinders Family!"
+    },
+    {
+      "webhook_enabled": false,
+      "enabled": true,
+      "question": "deposit",
+      "intent_display_name": "deposit_collection",
+      "language": "en",
+      "answer": "To process your deposit, I need:\n\n📝 **Please provide**:\n• Your full name\n• Phone number\n• Email address\n\nOnce you provide these details, I'll send an urgent request to our team to contact you immediately.\n\n💰 **Deposit amount**: $100\n💳 **Payment methods**: Credit card, Cash, Zelle\n\nHope we were able to serve you! If you have any questions or concerns please let us know. Thank you from the Inky Blinders Family!"
+    },
+    {
+      "webhook_enabled": false,
+      "enabled": true,
+      "question": "callback",
+      "intent_display_name": "callback_collection",
+      "language": "en",
+      "answer": "I'll send an urgent callback request to our team!\n\n📝 **Please provide**:\n• Your full name\n• Phone number\n• Email address\n\n⏰ **Response time**: Within 1 hour\n📞 **Team contact**: inkyblindersvtx@gmail.com\n\nYour request will be marked as URGENT and handled immediately.\n\nHope we were able to serve you! If you have any questions or concerns please let us know. Thank you from the Inky Blinders Family!"
+    },
+    {
+      "webhook_enabled": false,
+      "enabled": true,
+      "question": "portfolio",
+      "intent_display_name": "portfolio_links",
+      "language": "en",
+      "answer": "Check out our amazing work:\n\n📱 **Facebook**: https://www.facebook.com/inkyblindersvtx/\n📍 **Instagram**: https://www.instagram.com/inkyblindersvtx/\n🎵 **TikTok**: https://www.tiktok.com/search?lang=en&q=inkyblinders&t=1756361559574\n\nWant to see specific styles or have questions about our work?\n\nHope we were able to serve you! If you have any questions or concerns please let us know. Thank you from the Inky Blinders Family!"
+    },
+    {
+      "webhook_enabled": false,
+      "enabled": true,
+      "question": "artists",
+      "intent_display_name": "artist_info",
+      "language": "en",
+      "answer": "Meet our award-winning artists:\n\n👨‍🎨 **Brick Lee - Owner & Lead Artist**\n• 15+ years experience\n• Specializes in: Realism, Traditional, Custom Designs\n• Portfolio: https://www.instagram.com/inkyblindersvtx/\n\n👨‍🎨 **Staff Artist**\n• 15+ years experience\n• Specializes in: Traditional, Neo-traditional, Cover-ups\n\n🏆 **Combined Experience**: 30+ years\n\n📞 **Book with any artist**: (682) 221-8860\n\nHope we were able to serve you! If you have any questions or concerns please let us know. Thank you from the Inky Blinders Family!"
+    },
+    {
+      "webhook_enabled": false,
+      "enabled": true,
+      "question": "location",
+      "intent_display_name": "location_info",
+      "language": "en",
+      "answer": "Find us here:\n\n📍 **Address**: 218 N Main St, Maypearl, TX 76064\n📞 **Phone**: (682) 221-8860\n📧 **Email**: inkyblindersvtx@gmail.com\n🗺️ **Maps**: https://maps.google.com/?q=218+N+Main+St,+Maypearl,+TX+76064\n\n🕐 **Hours**: Tuesday-Saturday, 11 AM - 7 PM\n\nHope we were able to serve you! If you have any questions or concerns please let us know. Thank you from the Inky Blinders Family!"
+    },
+    {
+      "webhook_enabled": false,
+      "enabled": true,
+      "question": "hours",
+      "intent_display_name": "hours_info",
+      "language": "en",
+      "answer": "Our business hours:\n\n🕐 **Tuesday**: 11:00 AM - 7:00 PM\n🕐 **Wednesday**: 11:00 AM - 7:00 PM\n🕐 **Thursday**: 11:00 AM - 7:00 PM\n🕐 **Friday**: 11:00 AM - 7:00 PM\n🕐 **Saturday**: 11:00 AM - 7:00 PM\n🕐 **Sunday**: Closed\n🕐 **Monday**: Closed\n\n✅ **Walk-ins welcome**\n\nHope we were able to serve you! If you have any questions or concerns please let us know. Thank you from the Inky Blinders Family!"
+    },
+    {
+      "webhook_enabled": false,
+      "enabled": true,
+      "question": "services",
+      "intent_display_name": "services_info",
+      "language": "en",
+      "answer": "We offer:\n\n✅ **Small tattoos**: $100 - $125\n✅ **Medium tattoos**: $250 - $500\n✅ **Large tattoos**: $180 - $225 per hour\n✅ **Touch-ups**: starts at $100\n✅ **Cover-ups**: starts at $300\n✅ **FREE consultations**\n❌ **No piercings**\n\n📞 **Book consultation**: (682) 221-8860\n\nHope we were able to serve you! If you have any questions or concerns please let us know. Thank you from the Inky Blinders Family!"
+    },
+    {
+      "webhook_enabled": false,
+      "enabled": true,
+      "question": "payment",
+      "intent_display_name": "payment_methods",
+      "language": "en",
+      "answer": "We accept:\n\n💳 **Credit cards**\n💵 **Cash**\n📱 **Zelle**\n\n💰 **Deposits**: $100 required\n⏰ **Refund policy**: 48 hours notice\n\n📞 **Questions?** Call us: (682) 221-8860\n\nHope we were able to serve you! If you have any questions or concerns please let us know. Thank you from the Inky Blinders Family!"
+    },
+    {
+      "webhook_enabled": false,
+      "enabled": true,
+      "question": "hello",
+      "intent_display_name": "hello_greeting",
+      "language": "en",
+      "answer": "Hey there! I'm Larry the virtual apprentice. What's your name?"
+    },
+    {
+      "webhook_enabled": false,
+      "enabled": true,
+      "question": "hi",
+      "intent_display_name": "hi_greeting",
+      "language": "en",
+      "answer": "Hi! I'm Larry the virtual apprentice. What's your name?"
+    },
+    {
+      "webhook_enabled": false,
+      "enabled": true,
+      "question": "hey",
+      "intent_display_name": "hey_greeting",
+      "language": "en",
+      "answer": "Hey! I'm Larry the virtual apprentice. What's your name?"
+    },
+    {
+      "webhook_enabled": false,
+      "enabled": true,
+      "question": "help",
+      "intent_display_name": "help_command",
+      "language": "en",
+      "answer": "I'm here to help! I can assist with:\n\n📋 **Services**:\n• Portfolio and social media\n• Aftercare instructions\n• Booking consultations\n• Pricing information\n• Payment and deposits\n• Directions and location\n• Callback requests\n• Artist information\n\nJust ask me anything about Inky Blinders Tattoo!\n\nHope we were able to serve you! If you have any questions or concerns please let us know. Thank you from the Inky Blinders Family!"
+    },
+    {
+      "webhook_enabled": false,
+      "enabled": true,
+      "question": "bye",
+      "intent_display_name": "goodbye",
+      "language": "en",
+      "answer": "Hope we were able to serve you! If you have any questions or concerns please let us know. Thank you from the Inky Blinders Family!\n\n👋 **Come back anytime!**\n📞 **Need us?** Call (682) 221-8860"
+    },
+    {
+      "webhook_enabled": false,
+      "enabled": true,
+      "question": "goodbye",
+      "intent_display_name": "goodbye_formal",
+      "language": "en",
+      "answer": "Hope we were able to serve you! If you have any questions or concerns please let us know. Thank you from the Inky Blinders Family!\n\n👋 **Come back anytime!**\n📞 **Need us?** Call (682) 221-8860"
+    }
+  ]
+}
