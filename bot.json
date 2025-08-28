@@ -1,0 +1,151 @@
+{
+  "webhook_enabled": false,
+  "language": "en",
+  "name": "Inky Blinders Tattoo Assistant - Created by NextEleven",
+  "intents": [
+    {
+      "webhook_enabled": false,
+      "enabled": true,
+      "question": "\\start",
+      "intent_display_name": "start",
+      "language": "en",
+      "answer": "Hey! I'm your Inky Blinders Tattoo Assistant, created by NextEleven.\n\nChoose an option below:\n* View portfolio\n* Aftercare instructions\n* Book consultation\n* Book appointment\n* Pay deposit\n* Get directions\n* Request callback\n* Pricing information\n* Business hours\n* Social media\n* Contact information\n* Services offered\n* Payment methods\n* Cancellation policy\n* Why choose us\n* Meet our artists"
+    },
+    {
+      "webhook_enabled": false,
+      "enabled": true,
+      "question": "View portfolio",
+      "intent_display_name": "portfolio",
+      "language": "en",
+      "answer": "Here's our portfolio:\n- 📱 Facebook: https://www.facebook.com/inkyblindersvtx/\n- 📍 Instagram: https://www.instagram.com/inkyblindersvtx/\n- 🌐 Portfolio: https://www.instagram.com/inkyblindersvtx/\n\n* Back to start"
+    },
+    {
+      "webhook_enabled": false,
+      "enabled": true,
+      "question": "Social media",
+      "intent_display_name": "social_media",
+      "language": "en",
+      "answer": "Follow us on social media:\n\n📱 Facebook: https://www.facebook.com/inkyblindersvtx/\n📍 Instagram: https://www.instagram.com/inkyblindersvtx/\n\nStay updated with our latest work and special offers!\n\n* Back to start"
+    },
+    {
+      "webhook_enabled": false,
+      "enabled": true,
+      "question": "Contact information",
+      "intent_display_name": "contact_info",
+      "language": "en",
+      "answer": "Contact Inky Blinders Tattoo:\n\n👨‍🎨 Owner: Brick Lee\n📍 Address: 218 N Main St, Maypearl, TX 76064\n📞 Phone: (682) 221-8860\n📧 Email: inkyblindersvtx@gmail.com\n\n🕐 Hours: Tuesday-Saturday, 11 AM - 7 PM\n\n* Back to start"
+    },
+    {
+      "webhook_enabled": false,
+      "enabled": true,
+      "question": "Aftercare",
+      "intent_display_name": "aftercare",
+      "language": "en",
+      "answer": "Aftercare Instructions for Your Tattoo:\n\n🩹 **Initial Application (12-24 hours):**\n• Artist applies first Tegaderm bandage\n• Leave on for 12-24 hours\n• Remove in shower under warm water\n• Wash with antibacterial soap\n• Pat dry with clean paper towel\n\n🩹 **Second Application (4-5 days):**\n• Apply new Tegaderm bandage\n• Leave on for 4-5 days\n• Fluid accumulation is normal\n\n🩹 **Final Care (After 4-5 days):**\n• Remove bandage in shower\n• Wash with antibacterial soap\n• Air dry completely\n• Apply fragrance-free lotion\n• Avoid soaking until healed\n\n⚠️ **Important Notes:**\n• Fluid under bandage is normal\n• Redness/breakouts are normal\n• Protect from sun after healing\n• Follow artist's specific instructions\n\n📞 **Questions?** Contact us: (682) 221-8860\n\n* Back to start"
+    },
+    {
+      "webhook_enabled": false,
+      "enabled": true,
+      "question": "Book consultation",
+      "intent_display_name": "book_consult",
+      "language": "en",
+      "answer": "Book a FREE consultation here:\n- <CONSULT_LINK>\n\nConsultations are required before booking appointments.\n\n* Back to start"
+    },
+    {
+      "webhook_enabled": false,
+      "enabled": true,
+      "question": "Book appointment",
+      "intent_display_name": "book_appt",
+      "language": "en",
+      "answer": "Book an appointment here:\n- <APPT_LINK>\n\nWe book 1-2 weeks in advance.\nWalk-ins are welcome!\n\n* Back to start"
+    },
+    {
+      "webhook_enabled": false,
+      "enabled": true,
+      "question": "Pay deposit",
+      "intent_display_name": "deposit",
+      "language": "en",
+      "answer": "Pay your $100 deposit securely:\n- <DEPOSIT_LINK>\n\nDeposits are refundable with 48 hours notice.\n\n* Back to start"
+    },
+    {
+      "webhook_enabled": false,
+      "enabled": true,
+      "question": "Get directions",
+      "intent_display_name": "directions",
+      "language": "en",
+      "answer": "Find us here:\n- https://maps.google.com/?q=218+N+Main+St,+Maypearl,+TX+76064\n\n📍 218 N Main St, Maypearl, TX 76064\n📞 (682) 221-8860\n\n* Back to start"
+    },
+    {
+      "webhook_enabled": false,
+      "enabled": true,
+      "question": "Request callback",
+      "intent_display_name": "callback",
+      "language": "en",
+      "answer": "Drop your **name** and **phone number** here and we'll call you back ASAP.\n\n* Back to start"
+    },
+    {
+      "webhook_enabled": false,
+      "enabled": true,
+      "question": "Pricing information",
+      "intent_display_name": "pricing",
+      "language": "en",
+      "answer": "Our pricing:\n\n💰 Small tattoos: $100 - $125\n💰 Medium tattoos: $250 - $500\n💰 Large tattoos: $180 - $225 per hour\n💰 Touch-ups: starts at $100\n💰 Cover-ups: starts at $300\n💰 Consultations: FREE\n💰 Minimum charge: $100\n💰 Deposit required: $100\n\n* Back to start"
+    },
+    {
+      "webhook_enabled": false,
+      "enabled": true,
+      "question": "Business hours",
+      "intent_display_name": "hours",
+      "language": "en",
+      "answer": "Our business hours:\n\n🕐 Tuesday: 11:00 AM - 7:00 PM\n🕐 Wednesday: 11:00 AM - 7:00 PM\n🕐 Thursday: 11:00 AM - 7:00 PM\n🕐 Friday: 11:00 AM - 7:00 PM\n🕐 Saturday: 11:00 AM - 7:00 PM\n🕐 Sunday: Closed\n🕐 Monday: Closed\n\nWalk-ins welcome!\n\n* Back to start"
+    },
+    {
+      "webhook_enabled": false,
+      "enabled": true,
+      "question": "Services offered",
+      "intent_display_name": "services",
+      "language": "en",
+      "answer": "We offer:\n\n✅ Small tattoos ($100 - $125)\n✅ Medium tattoos ($250 - $500)\n✅ Large tattoos ($180 - $225 per hour)\n✅ Touch-ups (starts at $100)\n✅ Cover-ups (starts at $300)\n✅ FREE consultations\n❌ No piercings\n\n* Back to start"
+    },
+    {
+      "webhook_enabled": false,
+      "enabled": true,
+      "question": "Payment methods",
+      "intent_display_name": "payment",
+      "language": "en",
+      "answer": "We accept:\n\n💳 Credit cards\n💵 Cash\n📱 Zelle\n\n* Back to start"
+    },
+    {
+      "webhook_enabled": false,
+      "enabled": true,
+      "question": "Cancellation policy",
+      "intent_display_name": "cancellation",
+      "language": "en",
+      "answer": "Cancellation policy:\n\n⏰ 48 hours notice required\n💰 Deposits are refundable\n\n* Back to start"
+    },
+    {
+      "webhook_enabled": false,
+      "enabled": true,
+      "question": "Why choose you",
+      "intent_display_name": "why_choose",
+      "language": "en",
+      "answer": "Why choose us:\n\n🏆 30+ years combined experience\n🏆 2 award-winning artists on staff\n🏆 Professionalism\n🏆 Unique personal tattoo experience\n🏆 Specialties in realism and traditional styles\n\n👨‍🎨 Owner: Brick Lee\n📍 Location: 218 N Main St, Maypearl, TX 76064\n📞 Phone: (682) 221-8860\n📧 Email: inkyblindersvtx@gmail.com\n\n* Back to start"
+    },
+    {
+      "webhook_enabled": false,
+      "enabled": true,
+      "question": "Meet our artists",
+      "intent_display_name": "artists",
+      "language": "en",
+      "answer": "‍🎨 **Meet Our Award-Winning Artists**\n\n👨‍🎨 **Brick Lee - Owner & Lead Artist**\n• 15+ years experience\n• Specializes in: Realism, Traditional, Custom Designs\n• Portfolio: https://www.instagram.com/inkyblindersvtx/\n• Known for: Detailed work, unique personal designs\n\n👨‍🎨 **Staff Artist**\n• 15+ years experience\n• Specializes in: Traditional, Neo-traditional, Cover-ups\n• Portfolio: https://www.instagram.com/inkyblindersvtx/\n• Known for: Bold lines, vibrant colors\n\n🏆 **Combined Experience**: 30+ years\n🏆 **Awards**: Multiple industry recognitions\n🏆 **Specialties**: Realism, Traditional, Neo-traditional, Custom Designs, Cover-ups\n\n📞 **Book with any artist**: (682) 221-8860\n\n* Back to start"
+    },
+    {
+      "webhook_enabled": false,
+      "enabled": true,
+      "question": "Back to start",
+      "intent_display_name": "back_to_start",
+      "language": "en",
+      "answer": "What would you like to do?\n\n* View portfolio\n* Social media\n* Contact information\n* Aftercare instructions\n* Book consultation\n* Book appointment\n* Pay deposit\n* Get directions\n* Request callback\n* Pricing information\n* Business hours\n* Services offered\n* Payment methods\n* Cancellation policy\n* Why choose us\n* Meet our artists"
+    }
+  ]
+}
