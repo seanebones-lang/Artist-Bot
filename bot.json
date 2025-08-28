@@ -33,7 +33,7 @@
       "question": "aftercare",
       "intent_display_name": "aftercare_pdf",
       "language": "en",
-      "answer": "Here's your complete aftercare guide:\n\n📄 **Download Aftercare PDF**:\nhttps://drive.google.com/file/d/1ABC123XYZ/view?usp=sharing\n\nThis PDF contains:\n• Step-by-step instructions\n• Timeline for care\n• What to expect\n• Emergency contact info\n\n📞 **Questions?** Call us: (682) 221-8860\n\nHope we were able to serve you! If you have any questions or concerns please let us know. Thank you from the Inky Blinders Family!"
+      "answer": "Here's your complete aftercare guide:\n\n📄 **Download Aftercare PDF**:\n./aftercare-guide.pdf\n\nThis PDF contains:\n• Step-by-step instructions\n• Timeline for care\n• What to expect\n• Emergency contact info\n\n📞 **Questions?** Call us: (682) 221-8860\n\nHope we were able to serve you! If you have any questions or concerns please let us know. Thank you from the Inky Blinders Family!"
     },
     {
       "webhook_enabled": false,
@@ -41,7 +41,7 @@
       "question": "consultation",
       "intent_display_name": "consultation_pdf",
       "language": "en",
-      "answer": "Here's your consultation guide:\n\n📄 **Download Consultation PDF**:\nhttps://drive.google.com/file/d/1DEF456UVW/view?usp=sharing\n\nThis PDF contains:\n• What to bring\n• Questions to ask\n• Design ideas\n• Consultation checklist\n\n📞 **Book consultation**: Call (682) 221-8860\n\nHope we were able to serve you! If you have any questions or concerns please let us know. Thank you from the Inky Blinders Family!"
+      "answer": "Here's your consultation guide:\n\n📄 **Download Consultation PDF**:\n./consultation-guide.pdf\n\nThis PDF contains:\n• What to bring\n• Questions to ask\n• Design ideas\n• Consultation checklist\n\n📞 **Book consultation**: Call (682) 221-8860\n\nHope we were able to serve you! If you have any questions or concerns please let us know. Thank you from the Inky Blinders Family!"
     },
     {
       "webhook_enabled": false,
@@ -49,7 +49,7 @@
       "question": "prices",
       "intent_display_name": "pricing_pdf",
       "language": "en",
-      "answer": "Here's your complete pricing guide:\n\n📄 **Download Pricing PDF**:\nhttps://drive.google.com/file/d/1GHI789RST/view?usp=sharing\n\nThis PDF contains:\n• All service prices\n• Package deals\n• Deposit information\n• Payment options\n\n📞 **Questions?** Call us: (682) 221-8860\n\nHope we were able to serve you! If you have any questions or concerns please let us know. Thank you from the Inky Blinders Family!"
+      "answer": "Here's your complete pricing guide:\n\n📄 **Download Pricing PDF**:\n./pricing-guide.pdf\n\nThis PDF contains:\n• All service prices\n• Package deals\n• Deposit information\n• Payment options\n\n📞 **Questions?** Call us: (682) 221-8860\n\nHope we were able to serve you! If you have any questions or concerns please let us know. Thank you from the Inky Blinders Family!"
     },
     {
       "webhook_enabled": false,
