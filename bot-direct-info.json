@@ -302,6 +302,14 @@
     {
       "webhook_enabled": false,
       "enabled": true,
+      "question": "book consultation",
+      "intent_display_name": "book_consultation",
+      "language": "en",
+      "answer": "To book your consultation:\n\n📱 **Instagram DM**: https://www.instagram.com/inkyblindersvtx/\n📞 **Phone**: (682) 221-8860\n📧 **Email**: inkyblindersvtx@gmail.com\n\n✅ **Consultations are FREE**\n⏰ **Duration**: 15-30 minutes\n📋 **Required before booking**\n\nWhat would you like to discuss during your consultation?\n\nHope we were able to serve you! If you have any questions or concerns please let us know. Thank you from the Inky Blinders Family!"
+    },
+    {
+      "webhook_enabled": false,
+      "enabled": true,
       "question": "book?",
       "intent_display_name": "book_appointment",
       "language": "en",
